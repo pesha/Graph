@@ -1,0 +1,14 @@
+u C
+u B
+u A
+u X
+u D
+u Z
+u T
+u F
+h X - C
+h X - B
+h B - A
+h C - D
+h F - T
+#isTree = true

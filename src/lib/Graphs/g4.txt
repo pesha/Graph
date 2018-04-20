@@ -1,0 +1,10 @@
+u C
+u B
+u A
+u X
+u D
+h X > C
+h X > B
+h B > A
+h C > D
+#isTree = true
